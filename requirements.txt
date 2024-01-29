@@ -1,0 +1,4 @@
+GDAL==3.8.3
+numpy @ file:///D:/bld/numpy_1704280620084/work/dist/numpy-1.26.3-cp312-cp312-win_amd64.whl#sha256=93f790eb49a3a805e0ddfa51fa0e194d1797c47e725c990cf5335382ac1070f2
+setuptools==69.0.3
+wheel==0.42.0
